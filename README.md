@@ -134,7 +134,7 @@ Frontend (Vercel or Netlify)
   - Root directory: client
   - Build command: npm run build
   - Output directory: dist
-  - Env: VITE_API_BASE_URL=https://ecopulse-api.onrender.com, VITE_CLERK_PUBLISHABLE_KEY=pk_live_...
+  - Env: VITE_API_BASE_URL=https://plp-final-project-ecopulse.vercel.app, VITE_CLERK_PUBLISHABLE_KEY=pk_live_...
 - Netlify:
   - Base directory: client
   - Build command: npm run build
